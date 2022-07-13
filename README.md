@@ -8,6 +8,7 @@ Simple Laravel v.8.x Blog
 3. Переходим в запущенный под Docker-ом Linux командой docker exec -it project_app bash
 
 Дальше все практически стандартно.
+
 4. Создаем файлик .env с настройками
 DB_HOST=db
 DB_PORT=3306
