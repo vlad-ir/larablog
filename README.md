@@ -27,5 +27,7 @@ php artisan vendor:publish --tag=laravel-pagination
 
 
 Блог доступен по адресу http://localhost:8800
+
 Порт базы данных для внешнего подключения к Docker: 8200
+
 Первый пользователь в базе является админом.
