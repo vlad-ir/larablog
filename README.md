@@ -10,11 +10,17 @@ Simple Laravel v.8.x Blog
 Дальше все практически стандартно.
 
 4. Создаем файлик .env с настройками
+
 DB_HOST=db
+
 DB_PORT=3306
+
 DB_DATABASE=larablog_test
+
 DB_USERNAME=root
+
 DB_PASSWORD=root
+
 
 Прописываем настройки для отправки почтовых уведомлений.
 
