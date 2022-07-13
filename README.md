@@ -1,0 +1,2 @@
+# larablog
+Simple Laravel Blog
