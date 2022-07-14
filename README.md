@@ -30,9 +30,6 @@ DB_PASSWORD=root
 7. Создаем симлинк на папку с фотографиями блога
 php artisan storage:link
 
-8. Если вдруг не отобразиться пагинация, то выполняем команду
-php artisan vendor:publish --tag=laravel-pagination
-
 
 Блог доступен по адресу http://localhost:8800
 
