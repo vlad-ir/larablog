@@ -2,8 +2,10 @@
 Simple Laravel v.8.x Blog
 
 1. Клонируем репозиторий
-2. Запускаем Docker командой docker-compose up -d
-
+2. Запускаем Docker
+```sh
+docker-compose up -d
+```
 В Docker установлен Ubuntu, nginx, php 7.4 и MySQL 8.0
 
 3. Переходим в запущенный под Docker-ом Linux командой docker exec -it project_app bash
