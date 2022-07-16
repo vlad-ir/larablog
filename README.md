@@ -35,7 +35,7 @@ php artisan migrate:fresh --seed
 php artisan storage:link
 ```
 Список портов в проекте:
-| Software | Port |
+| Программа | Порт |
 |-------------- | -------------- |
 | **nginx** | 8800 |
 | **phpmyadmin** | 8080 |
